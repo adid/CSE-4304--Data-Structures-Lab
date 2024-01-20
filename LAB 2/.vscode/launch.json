@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "d:/Study/Semester 3, Winter 2023/CSE 4308 Lab Data Stractures/LAB 2",
+      "program": "d:/Study/Semester 3, Winter 2023/CSE 4308 Lab Data Stractures/LAB 2/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
